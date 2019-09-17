@@ -2,7 +2,8 @@
 <HTML>
 <HEAD>
 <TITLE> LATIN </TITLE>
-<body style="background-color:yellow;">
+<style type="text/css">
+body { background-color: #d8da3d}
 </style>
 </HEAD>
 <BODY> 
@@ -13,5 +14,6 @@
  <FONT style="font-size:25px"; FACE="optima, sans serif"><p align="center"><a href="http://lyc-dumas-ales.ac-montpellier.fr/"><IMG SRC="https://upload.wikimedia.org/wikipedia/commons/8/81/Greco-latin.png"></a> </p> </FONT>
 </BODY>
 </HTML>
+
 
 
